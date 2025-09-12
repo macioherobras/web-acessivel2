@@ -1,4 +1,4 @@
-# Web Acessível — Melhorando a experiência do usuário
+# Web Acessível — Site sobre Tropicalia
 
 ## Sobre
 Site simples, implementando recursos de acessibilidade com html, css e javascript
